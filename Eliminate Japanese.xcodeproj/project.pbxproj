@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A62D0C7D1EBAE92100CD2775 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		A62D0C7E1EBAEA6F00CD2775 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
+		A62D0C7F1EBAEBDA00CD2775 /* content.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = content.js; sourceTree = "<group>"; };
+		A62D0C801EBAF67900CD2775 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
+		A62D0C811EBAF77300CD2775 /* alert.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = alert.js; sourceTree = "<group>"; };
+		A62D0C821EBAF80100CD2775 /* background.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = background.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A62D0C751EBAE8C500CD2775 = {
+			isa = PBXGroup;
+			children = (
+				A62D0C7D1EBAE92100CD2775 /* manifest.json */,
+				A62D0C811EBAF77300CD2775 /* alert.js */,
+				A62D0C7F1EBAEBDA00CD2775 /* content.js */,
+				A62D0C7E1EBAEA6F00CD2775 /* popup.html */,
+				A62D0C801EBAF67900CD2775 /* popup.js */,
+				A62D0C821EBAF80100CD2775 /* background.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A62D0C761EBAE8C500CD2775 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+			};
+			buildConfigurationList = A62D0C791EBAE8C500CD2775 /* Build configuration list for PBXProject "Eliminate Japanese" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A62D0C751EBAE8C500CD2775;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A62D0C7A1EBAE8C500CD2775 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A62D0C7B1EBAE8C500CD2775 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A62D0C791EBAE8C500CD2775 /* Build configuration list for PBXProject "Eliminate Japanese" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A62D0C7A1EBAE8C500CD2775 /* Debug */,
+				A62D0C7B1EBAE8C500CD2775 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A62D0C761EBAE8C500CD2775 /* Project object */;
+}
